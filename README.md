@@ -72,6 +72,8 @@ The models were evaluated based on their respective metrics. A comparative analy
 | Linear Regression | R² Score        | **0.87**  |
 | Decision Tree     | Accuracy        | **100%**  |
 
+![WhatsApp Image 2025-11-18 at 21 49 48_48c25367](https://github.com/user-attachments/assets/865298ad-f07c-4f0f-9755-4b4893388c49)
+
 
 Visual Comparison:
 The notebook includes a bar chart comparing the performance of the Linear Regression model (R²) against the Decision Tree (Accuracy) to visualize the strengths of each approach.
