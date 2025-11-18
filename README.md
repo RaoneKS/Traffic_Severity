@@ -18,11 +18,11 @@ Description: The dataset contains historical traffic data.
 
 Key Features:
 
-Feature 1 (e.g., DateTime)
+Feature 1 :- DateTime
 
-Feature 2 (e.g., Junction_ID)
+Feature 2 :- Junction_ID
 
-Feature 3 (e.g., Vehicles)
+Feature 3 :- Vehicles
 
 
 🛠 Technologies Used
@@ -67,23 +67,11 @@ Metric: Accuracy Score.
 
 The models were evaluated based on their respective metrics. A comparative analysis was performed to visualize the performance differences.
 
-Model
+| **Model**         | **Metric Used** | **Score** |
+| ----------------- | --------------- | --------- |
+| Linear Regression | R² Score        | **0.87**  |
+| Decision Tree     | Accuracy        | **100%**  |
 
-Metric Used
-
-Score
-
-Linear Regression
-
-R² Score
-
-[0.82]
-
-Decision Tree
-
-Accuracy
-
-[100%]
 
 Visual Comparison:
 The notebook includes a bar chart comparing the performance of the Linear Regression model (R²) against the Decision Tree (Accuracy) to visualize the strengths of each approach.
