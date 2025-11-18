@@ -78,13 +78,13 @@ Linear Regression
 
 R² Score
 
-[Insert Score]
+[0.82]
 
 Decision Tree
 
 Accuracy
 
-[Insert Score]
+[100%]
 
 Visual Comparison:
 The notebook includes a bar chart comparing the performance of the Linear Regression model (R²) against the Decision Tree (Accuracy) to visualize the strengths of each approach.
@@ -118,8 +118,11 @@ jupyter notebook Traffic.ipynb
 
 👤 Author
 
-[Your Name]
+[Abu Zyan
+Jeevan KS
+Saurav Singh
 
-GitHub: @yourusername
+GitHub: @abuzyan
+        @
 
 LinkedIn: [Your Profile]
