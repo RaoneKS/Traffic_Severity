@@ -24,7 +24,6 @@ Feature 2 (e.g., Junction_ID)
 
 Feature 3 (e.g., Vehicles)
 
-(Update these placeholders with your actual column names)
 
 🛠 Technologies Used
 
@@ -118,11 +117,12 @@ jupyter notebook Traffic.ipynb
 
 👤 Author
 
-[Abu Zyan
+Abu Zyan
 Jeevan KS
 Saurav Singh
 
 GitHub: @abuzyan
-        @
+        @Jeevan K S
+        @Sauravgsingh
 
 LinkedIn: [Your Profile]
