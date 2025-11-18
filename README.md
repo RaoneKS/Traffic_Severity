@@ -1,4 +1,4 @@
-Traffic Analysis & Prediction Project
+Traffic Analysis Project
 
 📄 Project Overview
 
